@@ -54,7 +54,7 @@ namespace Flock.Services.Services
                 {
                     if (data.Cantidad > 1)
                     {
-                        throw new ValidationException($"Se encontró más de un resultado con el nombre {provincia} ({GetNombres(data.Provincias)}).");
+                        throw new ValidationException($"Se encontró más de un resultado con el nombre '{provincia}' ({GetNombres(data.Provincias)}).");
                     }
                     return data.Provincias.First().Centroide;
                 }
