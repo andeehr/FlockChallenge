@@ -14,8 +14,6 @@ namespace Flock.Tests
             services.AddHttpClient("geoApi", options => {
                 options.BaseAddress = new Uri("https://apis.datos.gob.ar/georef/api/");
             });
-
-            //services.AddHttpClient();
         }
     }
 }
