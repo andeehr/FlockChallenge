@@ -1,0 +1,11 @@
+[
+  //la pw es 123456
+  {
+    "Id": 1,
+    "Nombre": "Andres",
+    "Apellido": "Mora",
+    "Username": "a.mora",
+    "PasswordHash": "EmGWlUgIigeOkrPCOQQK2dNJ4oOPCBYwLsQ2sBqYiocBoG3YMkabY6V0JEQJDYIbWgJM+fILpCK7Vv67sqgtBw==",
+    "PasswordSalt": "xv+FjdIMkqJFJ+hvSrWEkUw8Z5JEGRA0Wx31FhGi+DkpOl8q29ANnvZ1YRe6vY1LrWFC5SdTvOwrkdr40zOR0ZEee0YbRdWz7gbQjjge44zEX+B4oBPW4OgKIlw0djizBTi/ZzpyD30JhTq2woiUfS4r3XRzZoWKN8alN03+EOI="
+  }
+]
